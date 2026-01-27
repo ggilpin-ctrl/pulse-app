@@ -11,5 +11,8 @@ Phase 3 - Core Feature Development
 Phase 4 - Testing and Refinement 
 Phase 5 - FInalization adn Presentation
 
+## Figma Design
+Core feature UI designs are available here: https://www.figma.com/make/L4xdVprya2f9rGWY36SI9f/Pulse-App-Dashboard?t=jQWjzPvIq7KpPq0N-20&fullscreen=1 
+
 ## Project Log 
 1/25/26: Respitory created adn intial README setup.
