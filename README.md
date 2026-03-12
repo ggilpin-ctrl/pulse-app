@@ -16,3 +16,14 @@ Core feature UI designs are available here: https://www.figma.com/make/L4xdVprya
 
 ## Project Log 
 1/25/26: Respitory created adn intial README setup.
+
+3/12/ 26: I just opened my read me file and nothing has saved.....
+
+
+## Core Feauture
+So the first thing I a going to create is the core feature. Essenjtially this will be a mood journal / daily check in system. I want this to be my core feauture becasue it has simple functions that will be easiet to learn. i think this is something that if I can get down then it iwll make the learning process easier for the other functions. I want to be able to get this fucntion down and then I can build other apps off of this one. This is a very fundamental app. 
+This app will work by users will be able to quickly log their daily emotional state and then they have the option to quickly reflect on their day if they wanted too. This will also hopefull serve as the foundation for future analytics and mental wellness tracking within the app. 
+
+## Development Process:
+First I wanted to get an idea of exactly how I wanted this app to look. In my opionin, I think it iwll be easier to build if I know what the app looks like, and then i can go off of that.
+So, I created a figma creation to help with the creation of what the app can look like. 
