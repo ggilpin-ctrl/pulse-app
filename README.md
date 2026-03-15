@@ -31,3 +31,4 @@ So, I created a figma creation to help with the creation of what the app can loo
 Here is the link to the figma file: https://www.figma.com/make/aKtjF8ju6YxyqkGzF2s4D7/Mood-journal-app-features?t=iCmOWyrMAsZYJ2J5-1
 
 THe big thing for me was to make it visually appealing. I have the emoji centered in the middle of the screeen so users know to lcick it. ALso the colors are suppose to be very ncie to look at. The big thing fo rme and the hard part for this app will be the history tab. So that is righ tnext to wehre you can input the data. I will haev to do reserach in learning how to save entries thtough the coding. But I want it so that users can sewitch over to that button and tehn they can see all their history they have inputed on the days they have inputed data. 
+
