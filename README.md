@@ -38,7 +38,7 @@ Next, This made the code cleaner and easier to manage because if I ever want to 
 For the jorunal entry box, I added a TextEditor component so users can write an optional journal note about their day. This text is stored in another state variable called journalText.
 Them i createdsomething called a data model to represent each mood entry. A data model is simply a structure that defines what information should be stored. Each mood stores four peices of information. A unique ID so entries can be tracked , the mood emoji, the date the entry was created, and the optional jounral note. 
 
-Once that was all done, i wasn't done with the entire mood app. But, I wanted to look what it teh visula of the screen looked like. The spacing of the mood journals were off. The boxes around the oods were not spcaed correctly. i was trying to fix my spacing and adjusting the width adn the spcae apart of each box. I was on this for awhile and it seemed like nothing would work. Finally, I figured out the boxes were just too big and make those smaller. That then fixed my problem. So there are teh grey boxes around each emoji. I wanted there to eb that white space between each of the grey boxes but also that space between the edge of the screen on the left and right of the end boxes. When i changed teh whole size of the grey boxes behind the emoji that seemed to fixed the visual problem I was having. 
+Once that was all done, i wasn't done with the entire mood app. But, I wanted to look what it teh visula of the screen looked like. The spacing of the mood journals were off. The boxes around the oods were not spcaed correctly. i was trying to fix my spacing and adjusting the width adn the spcae apart of each box. I was on this for awhile and it seemed like nothing would work. Finally, I figured out the boxes were just too big and make those smaller. That then fixed my problem. So there are teh grey boxes around each emoji. I wanted there to eb that white space between each of the grey boxes but also that space between the edge of the screen on the left and right of the end boxes. Eventually I was able to solve the layout issue by adjusting the horizontal padding around the entire row of mood buttons and carefully balancing the spacing values.
 Besides that the app seemed to look alright and function good.
 
 2/14/26
@@ -66,4 +66,7 @@ is through the time investment and when I am able to do this homework. I liek to
 
 
 2/23/26-
-A big part was the saving data permantely. I created the app that took me like a week. 
+A big part was the saving data permantely. Initially, entries only existed while the app was running, which meant they disappeared when the app closed. To fix this, I implemented persistent storage. Initially, entries only existed while the app was running, which meant they disappeared when the app closed. To fix this, I implemented persistent storage.
+Next, since I was done with the main feature itw as time to expand the app. Because the long term goal of the app is to create more apps within this app such as workout tracking, activity monitoing, adn mental health check ins. So for this i created a new folder called feautures. This folder will haev all of the main apps folders. So under the feature folder I have MoodJournal folder under there. And under that folder has the main scree, history screen, and the mood entry. Now the content view file will be teh mioain home screen that will display the apps and that wont be in any folder. 
+
+Next, is to create the main home screen.
