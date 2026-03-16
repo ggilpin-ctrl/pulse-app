@@ -61,9 +61,9 @@ storage).
 During this coding process I encountered many problems. A lot of it was really just getting an understanding a feel for the code. Since this is my first time really using SwiftUI code. Some things took me longer in the beginning because I have to research or remeber what function does what. And since I already know exactly what I wanted I had to find that function. But I think that knowing exactly what I wanted did help and make it easier to code. Also, another challenge I didnt't mention here but was something I just needed to figure out it works and connects within the app is how the @State works. 
 Also, I have mentioned how I want my app to look a certain way. I have to start priortizing the functionality of my app rather than a clean good look interface. The interface took some time to do, but I think I just mainly wanted the interface to look clean for the first main core feature. Now it is time to start exp;anding the app, but now I have soemething I can start exoanding the app fucntionality rather than looks. And branching oof more files as it gets bigger. 
 What I have learned- 
+is through the time investment and when I am able to do this homework. I liek to do it when teh rest of my homework for the week is done. So I can soley focus on this. I spent a lot of time learning about how the code works and the variables of the code. Also, learned from an agile perspective the importance of adapting to plans when the intial timeline may seem off. 
 
 
 
-
-
+2/23/26-
 A big part was the saving data permantely. I created the app that took me like a week. 
