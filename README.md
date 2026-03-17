@@ -69,4 +69,19 @@ is through the time investment and when I am able to do this homework. I liek to
 A big part was the saving data permantely. Initially, entries only existed while the app was running, which meant they disappeared when the app closed. To fix this, I implemented persistent storage. Initially, entries only existed while the app was running, which meant they disappeared when the app closed. To fix this, I implemented persistent storage.
 Next, since I was done with the main feature itw as time to expand the app. Because the long term goal of the app is to create more apps within this app such as workout tracking, activity monitoing, adn mental health check ins. So for this i created a new folder called feautures. This folder will haev all of the main apps folders. So under the feature folder I have MoodJournal folder under there. And under that folder has the main scree, history screen, and the mood entry. Now the content view file will be teh mioain home screen that will display the apps and that wont be in any folder. 
 
-Next, is to create the main home screen.
+2/2/26-
+Next, is to create the main home screen. This will be built on teh ContentView.swift file and will act as teh central hub where users can access teh differnet wellness tools available in the app. To build this screen, I used SwiftUi layout structure liek NavigationStack, ScrollView, and VStack. The NavigationStack allows the app to support navigation between multiple screens. This is important because when a user selects a feature, the app needs to open a new view such as the Mood Journal screen.
+Inside the NavigationStack, I used a ScrollView so the page can scroll if more features are added in the future. Since the Pulse App is designed to include multiple wellness tools, this ensures the interface will still function properly as the number of features grows.
+Within the ScrollView, I used a VStack to arrange the interface elements vertically. This stack contains the app title, a section label called “Your Apps”, and a list of feature tiles that users can tap to open different parts of the application.
+Each feature is represented using a NavigationLink, which allows the user to tap a tile and move to another screen. For example, the Mood Journal tile navigates to the MoodJournalView, which contains the daily mood tracking feature.
+I also created a reusable component called appTile. This function generates the visual layout for each feature tile, including the title, subtitle, background color, and rounded corners. Using a reusable component helps keep the code cleaner and makes it easier to add additional features later without rewriting the same layout code multiple times.
+Currently, the home screen contains three feature tiles:
+Mood Journal (fully implemented)
+Workout Tracker (coming soon)
+AI Check-In (coming soon)
+These placeholder tiles represent features that will be added later in the development process.
+This new home screen establishes the overall navigation structure of the Pulse App and allows the application to scale as more wellness tools are developed.
+
+## 3/3/26 - Biweekly check in 
+I was not able to go to class. I was behind on this project. My basketball season is wrapping up and during this I was at the MIAA tournament which is the last tournament. I have been busy with basketball and planned to really knock this assignment out when I am done. 
+
