@@ -84,4 +84,6 @@ This new home screen establishes the overall navigation structure of the Pulse A
 
 ## 3/3/26 - Biweekly check in 
 I was not able to go to class. I was behind on this project. My basketball season is wrapping up and during this I was at the MIAA tournament which is the last tournament. I have been busy with basketball and planned to really knock this assignment out when I am done. 
+This is the summary of what I have done adn what I submitted on the check in:
+This week, I implemented persistent storage for mood entries, allowing data to be saved across app sessions. I also reorganized the project by introducing a Features folder to better manage different parts of the app. Additionally, I created the main home screen, which serves as a central hub for navigating between features. These updates improved both the functionality and structure of the Pulse App and prepared it for future expansion.
 
