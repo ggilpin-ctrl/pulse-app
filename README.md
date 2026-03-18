@@ -87,3 +87,16 @@ I was not able to go to class. I was behind on this project. My basketball seaso
 This is the summary of what I have done adn what I submitted on the check in:
 This week, I implemented persistent storage for mood entries, allowing data to be saved across app sessions. I also reorganized the project by introducing a Features folder to better manage different parts of the app. Additionally, I created the main home screen, which serves as a central hub for navigating between features. These updates improved both the functionality and structure of the Pulse App and prepared it for future expansion.
 
+## Next Step
+I beleive that i have my mood journal done. So my next steps I would like to polish up the home screen  and then potientially add another featurue. By this point I should have most of my code doen adn then start testing it on devices. I am behind. last week i did not get much of an oppuruntityt to work on this because it was mid term week. I had soem papers that were due that took a lot of my attention and time.
+I was working at the rec center so I pulled up my read me file.
+3/12/26- I looked and I did not have ny read me file saved correctly and all of my codumentation was gone of my process. I try to restore it, but I had papers and projects due.
+
+## 3/15/26 - 3/16/26
+I went on a trip to colorado for skiing. We drove here. SPlit it up in parts. So SUnday teh three hour drive and then Monday the rest of the way I spent working on redoing my read me file. I remeber the things I did, and most of the challenges I faced during whcih parts. 
+Honestly, this was a good review because this week I have no other projects so I want to fully put my attention on working on this capstone project. 
+It was good to see what progress I have made and imporvements I can add. 
+But, now I am caught up and haev it all I can contiinue on with furhtering my app.
+
+## 3/17/26
+I am behind, but am going to start polishing my home screen app. First, I want to add a greetings for when you turn the app on. 
