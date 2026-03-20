@@ -100,3 +100,4 @@ But, now I am caught up and haev it all I can contiinue on with furhtering my ap
 
 ## 3/17/26
 I am behind, but am going to start polishing my home screen app. First, I want to add a greetings for when you turn the app on. 
+First when I am about to make a lot of chnaged on my code I would like to see the canvas but it owul dnot appear. This is much easier than doing the iphone simulator. But I needed to add code at the bottom of my code and then I got it to work.
