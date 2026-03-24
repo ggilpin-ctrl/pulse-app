@@ -118,3 +118,8 @@ I owuld like for their to be a second feauture also. I am wanting something simp
 
 ** NEW FEAUTURE -- Goal Tracker
 Goal: the user can type a goal, save it, and see it in a list. 
+I implemented a Goal Tracker feature that allows users to input and store goals dynamically. This uses state management and list rendering similar to the Mood Journal feature.
+
+## 3/24/26 Class
+New feature can have the average. A percentage of the days. And then give them a little mnetal health check in. Then also give them motivation. Hey you are 78% depressed. They can tell throughout the week. If it is lower than 50% then you can pull up soenthing from the record oyu are very low. Maybe you should find assitance. 
+Tracking the moods evryday and link it with the journals and someone can look back at the history look back and see what they did good. 
