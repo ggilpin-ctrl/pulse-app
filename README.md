@@ -107,3 +107,14 @@ Now I want to continue to build my home screen more and polish it off. Focusing 
 For my new code I redesigned the layout of the homescreen to help improve visual structure and readability. It now uses a cleaner hiearchy with better spacing and organization between elements like the individual apps, section headers, and the featured tiles.
 The big change and update I did was redesign the app tiles. I created a reusable UI componet called "appTile" within the code. This included now an emoji that represents each feauture. A title and subtitle to fully know what app it is. The background is now gradient for a more modern and sleek design. The tiles also match with my first app pulse, so I kind of made that purple my kind of theme colors essentially. Also, slight changes that made a huge diffference was rounding the corners and shawdowing to create depth. 
 Now having this reusable componet appTile like stated before will help give consistnet color that is like the main color for my app. Also, it makes it easier to add new feautures without duplicating the code. 
+Also, I added a NavigationStack based strcture. This allows users now to navigate between teh home screen and individual features such as the MO=ood Journal. This helps give me a good foundation and base so I can potientially add more tools and features. Currently I have Mood Journal, workout tracker, and AI check in. 
+
+## 3/22/26
+Okay so far I have the three features with only one complete feauture. The two workout tracker adn AI check in are goals I would like to complete, but I think that would be too complicated to acheive implemening AI or would take more time to research adn attempt that i simpily do not have.
+Also, I am behind on my development plan beacuse it has me at the stage of testing. I would like to get one or two more features done before I start moving on to the testing phase. Even if that means I need to cram the testing phase. I usually get stuff done even if it is last minute. 
+i added those two features as almost a placement till I got to this stage. Now thinking and looking more into how I am going to build my feature I would like to do soemthing more simple. Even though implmeneting AI would have been really cool and was one of my biggest goals I jsut don't think it is a good idea to try now. 
+I would like to replace it with a goal tracker. This means that users can create adn track goals daily. They can input goals and then view them in a list format. THis feature builds on the same concept used in the MoodJournal such as the coding and the user imput and data storage. 
+I owuld like for their to be a second feauture also. I am wanting something simple, but not too closley realted to what I laready have. It will have wellness and be a sleep check in.
+
+** NEW FEAUTURE -- Goal Tracker
+Goal: the user can type a goal, save it, and see it in a list. 
