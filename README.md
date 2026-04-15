@@ -123,3 +123,10 @@ I implemented a Goal Tracker feature that allows users to input and store goals 
 ## 3/24/26 Class
 New feature can have the average. A percentage of the days. And then give them a little mnetal health check in. Then also give them motivation. Hey you are 78% depressed. They can tell throughout the week. If it is lower than 50% then you can pull up soenthing from the record oyu are very low. Maybe you should find assitance. 
 Tracking the moods evryday and link it with the journals and someone can look back at the history look back and see what they did good. 
+
+
+## 4/6/26 Bi-weeklycheck in
+Had class figuered out the changes I want to make to the app.
+i want to change ghow i had my worjout tracker. I want to make it a drop down and it say all the things i have previoulsy instead of people typing into it cause theu would be more likely to have errors that way.
+Also, I need to connect my ood journal to my smart check in. This waty it pulls from my mood journal instead of just being set data. 
+i also want to add a caht bot or and assitant. This button wont actually work but it will be a fun feature that is there that poeple can ask about the app. 
